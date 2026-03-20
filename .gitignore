@@ -1,0 +1,5 @@
+build/
+dist/
+FileToolbox.spec
+test-folder/
+test-excels/
